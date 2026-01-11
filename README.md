@@ -1,4 +1,4 @@
-# 🌾 Smart Farming Yield Analytics 
+# 🌾 Farming Crop Yield Analytics 
 
 ## Purpose
 The **Smart Farming Yield Analytics System** is a Power BI dashboard designed to analyze crop yield patterns using sensor, soil, weather, and farming practice data. Its goal is to support data-driven decision-making for improving agricultural productivity and sustainability.
